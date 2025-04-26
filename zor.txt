@@ -1,0 +1,7 @@
+-lgnutls -lz
+
+
+
+
+#-lssl -lcrypto
+
